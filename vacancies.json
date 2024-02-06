@@ -1,0 +1,22 @@
+{
+  "vacancies": [
+    {
+      "link": "https://spb.hh.ru/vacancy/92701503?query=python&hhtmFrom=vacancy_search_list",
+      "salary": "2500 – 4000 $",
+      "company_title": "Zonesmart LLC",
+      "city": "Москва"
+    },
+    {
+      "link": "https://spb.hh.ru/vacancy/91336304?query=python&hhtmFrom=vacancy_search_list",
+      "salary": "3500 – 5000 $",
+      "company_title": "Zentist",
+      "city": "Москва"
+    },
+    {
+      "link": "https://spb.hh.ru/vacancy/91741869?query=python&hhtmFrom=vacancy_search_list",
+      "salary": "1700 – 4200 $",
+      "company_title": "Urbamatica",
+      "city": "Москва"
+    }
+  ]
+}
